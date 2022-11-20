@@ -10,7 +10,7 @@ const Navbar = () => {
 
       <img
             className="nav__logo"
-             src="http://www.freepnglogos.com/uploads/netflix-logo-0.png"
+            src="http://www.freepnglogos.com/uploads/netflix-logo-0.png"
             alt="NETFLIX" />
             
 
